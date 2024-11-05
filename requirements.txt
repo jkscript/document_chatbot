@@ -1,0 +1,10 @@
+pypdf==4.0.1
+langchain==0.1.4
+torch==2.2.0
+accelerate==0.26.1
+bitsandbytes==0.42.0
+ctransformers==0.2.27
+sentence_transformers==2.3.1
+chainlit==1.0.200
+huggingface_hub==0.20.3
+qdrant-client==1.7.2

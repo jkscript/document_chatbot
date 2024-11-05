@@ -1,0 +1,25 @@
+{
+    "callback": [
+      "call me",
+      "request a callback",
+      "contact me",
+      "reach out to me",
+      "give me a call",
+      "is it possible for me to call you",
+      "please call me",
+      "can you call me",
+      "can you give me a call",
+      "please contact me"
+    ],
+    "appointment": [
+      "book an appointment",
+      "schedule an appointment",
+      "set up a meeting",
+      "arrange a session",
+      "i need an appointment",
+      "i need to have a session arranged", 
+      "i need to book a meeting",
+      "i need to schedule a session",
+      "i need to set up a meeting"
+    ]
+  }
