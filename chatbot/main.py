@@ -12,7 +12,7 @@ import os
 import csv
 import json
 # Paste your huggingfacehub_api_token here
-HUGGINGFACEHUB_API_TOKEN = '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'
+HUGGINGFACEHUB_API_TOKEN = ''
 
 # Custom Prompt Template
 custom_prompt_template = """Answer the user's question using the provided information. If you're unsure, refrain from guessing.
